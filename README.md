@@ -2,5 +2,5 @@
 This is my first Git repository
 <br>
 <hr>
-Author - Hemant Yadav
+Author - Hemant Yadav(MRU)
 <hr>
